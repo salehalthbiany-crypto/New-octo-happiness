@@ -1,0 +1,6 @@
+{
+  "name": "بقالة العزي",
+  "description": "نظام محاسبي وإدارة بقالة ونقاط بيع متكامل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
